@@ -2,6 +2,7 @@
     background-color: rgb(33, 33, 33);
 }
 
+
 p,
 h2,
 ol,
@@ -15,22 +16,27 @@ h1 {
     color: white;
     text-align: center;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin-top: 10px;
 }
 
 h2,
 h3 {
     color: rgb(245, 124, 44);
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin-bottom: 30px;
 }
 
 ul,
 ol {
     color: white;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    margin: 10px 30px 50px;
+
 }
 
 img {
     border-radius: 5%;
+    
 }
 
 .menu {
